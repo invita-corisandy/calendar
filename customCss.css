@@ -3,7 +3,7 @@
  * Add to Calendar Button
  * ++++++++++++++++++++++
  *
- * Style: Round
+ * Style: custom
  *
  * Version: 2.4.3
  * Creator: Jens Kuerschner (https://jenskuerschner.de)
@@ -20,9 +20,9 @@
  :host {
   width: fit-content;
 
-  --base-font-size-l: 16px;
-  --base-font-size-m: 16px;
-  --base-font-size-s: 16px;
+  --base-font-size-l: 20px;
+  --base-font-size-m: 20px;
+  --base-font-size-s: 20px;
   --font: arial, helvetica, sans-serif;
   --keyboard-focus: #1e90ff;
   --btn-background: #f5f5f5;
